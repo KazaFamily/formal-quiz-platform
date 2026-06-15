@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
+    base: '/formal-quiz-platform/', // <-- Keep this exactly as-is
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),
