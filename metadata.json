@@ -1,0 +1,6 @@
+{
+  "name": "Formal Quiz Platform",
+  "description": "An elegant, corporate-grade multiple-choice quiz engine with custom JSON creation, performance analysis, and interactive canvas score celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
